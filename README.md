@@ -19,10 +19,5 @@ This project is a Python-based automation tool designed to streamline the proces
 - **Python**
 - **Pandas** – for data manipulation
 - **Matplotlib** – for graph generation
-- **smtplib / email.message** – for sending formatted emails
-- **Google Sheets API** – for fetching live attendance data
-
----
-
-## 📂 Project Structure
-
+- **email.message** – for sending formatted emails
+- **Google Sheets** – for fetching live attendance data
